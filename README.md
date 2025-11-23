@@ -468,7 +468,8 @@ This project is part of the 10 Academy training program.
 
 For questions or support:
 - Open an issue on GitHub
-- Contact: [Your Email]
+- Contact: nansamuel12@gmail.com
+  
 
 ---
 
