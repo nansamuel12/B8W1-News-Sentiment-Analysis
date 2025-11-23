@@ -56,7 +56,7 @@ category = analyzer.categorize_sentiment(score)
 ---
 
 ### 2. **TAProcessor**
-**Purpose**: Calculate technical indicators and financial metrics
+**Purpose**: Calculate technical indicators and financial metrics using TA-Lib
 
 **Key Methods**:
 - `calculate_sma(data, period)` - Simple Moving Average
