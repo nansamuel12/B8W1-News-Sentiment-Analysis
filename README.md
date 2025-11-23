@@ -346,7 +346,6 @@ jupyter notebook notebooks/Task3_Enhanced_Correlation.ipynb
 
 ### Technical Analysis
 - **TA-Lib**: Technical analysis library
-- **PyNance**: Financial metrics (optional)
 
 ### Statistical Analysis
 - **SciPy**: Statistical functions and tests
